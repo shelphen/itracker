@@ -1,2 +1,12 @@
 .idea
 /docker/logs
+/vendor
+/node_modules
+/public/storage
+/public/js
+/public/css
+/public/build
+Homestead.yaml
+Homestead.json
+.env
+npm-debug.log
